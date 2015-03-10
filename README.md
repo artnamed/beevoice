@@ -36,3 +36,6 @@ Emitter voice: more simpler. Reading sound data from microphone and send to all 
 Receiver voice: play every other voice received from network. Yeeh<br>
 
 All this procedure behaviours optimized and tuned for described description.
+
+Archive of build here https://github.com/artnamed/beevoice/raw/master/backup_build/beevoice_v1.0_win32_b0.zip
+md5: 2507173acb59b1f2f33fd57fcf9f350c
